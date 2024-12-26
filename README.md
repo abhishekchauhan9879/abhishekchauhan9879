@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan😎</h1>
-<h3 align="center">A Competitive Programmer💡& Backend Developer👨🏻‍💻. I am having 1️⃣➕ years of experience in backend development with Java, SpringBoot and Oracle DBA📙. I love🌹to do✏️ Data Structures & Algorithms🎯.</h3>
+<h3 align="center">A Full Stack Software Engineer👨🏻‍💻| Competitive Programmer. With 3️⃣➕ years of experience in the development domain, I specialize in Java, jQuery, JavaScript, MongoDB, Spring Boot, and Oracle DBA. Passionate about solving real-world problems with optimized solutions📙. I love🌹to do✏️creating efficient and scalable applications🎯.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchauhan9879&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchauhan9879" /> </p>
 
-- 🌱 I’m currently working as **Backend Java Developer.**
+- 🌱 I’m currently working as **Full Stack Software Developer.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/abhishekchauhan9879)
 
-- 💬 Ask me about **Java, SpringBoot, C++, Data Structures & Algorithms and Competitive Programming.😎**
+- 💬 Ask me about **Java, Jquery, JavaScript, MongoDB, SpringBoot, C++, Data Structures & Algorithms and Competitive Programming.😎**
 
 - 📫 How to reach me **abhishekchauhan9879@gmail.com**
 
@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek--chauhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek--chauhan/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhishekchauhn" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdsEU0vEPth7C1_P-Caupu0g1ECKOyHLlWrw&usqp=CAU" alt="abhishekchauhn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhishekchau987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishekchau987" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhishekchauhan9879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekchauhan9879" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhishekchauhan9879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishekchauhan9879" height="30" width="40" /></a>
