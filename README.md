@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan😎</h1>
-<h3 align="center">A Full Stack Software Engineer👨🏻‍💻| Competitive Programmer. With 3️⃣➕ years of experience in the development domain, I specialize in Java, jQuery, JavaScript, MongoDB, Spring Boot, and Oracle DBA. Passionate about solving real-world problems with optimized solutions📙. I love🌹to do✏️creating efficient and scalable applications🎯.</h3>
+<h3 align="center">A Full Stack Software Engineer👨🏻‍💻| Competitive Programmer. With 4️⃣➕  years of experience in the development domain, I specialize in Java, jQuery, JavaScript, MongoDB, Spring Boot, Spring CLoud, JWT/Hibernate , Spring Security and Oracle DBA. Passionate about solving real-world problems with optimized solutions📙. I love🌹to do✏️creating efficient and scalable applications🎯.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchauhan9879&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchauhan9879" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/abhishekchauhan9879)
 
-- 💬 Ask me about **Java, Jquery, JavaScript, MongoDB, SpringBoot, C++, Data Structures & Algorithms and Competitive Programming.😎**
+- 💬 Ask me about **Java, Jquery, JavaScript, MongoDB, SpringBoot, C++, Data Structures & Algorithms and System Design.😎**
 
 - 📫 How to reach me **abhishekchauhan9879@gmail.com**
 
