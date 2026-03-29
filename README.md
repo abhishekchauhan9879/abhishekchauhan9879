@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently working as **Full Stack Software Developer.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/abhishekchauhan9879)
+- 👨‍💻 All of my projects are available at https://github.com/abhishekchauhan9879
+
+- 🌐 Portfolio: https://abhishekchauhan.vercel.app
 
 - 💬 Ask me about **Java, Jquery, JavaScript, MongoDB, SpringBoot, C++, Data Structures & Algorithms and System Design.😎**
 
 - 📫 How to reach me **abhishekchauhan9879@gmail.com**
 
-- 📄 Know about my experiences [/abhishek--chauhan](https://www.linkedin.com/in/abhishek--chauhan/)
+- 📄 Know about my experiences -> https://www.linkedin.com/in/abhishek--chauhan/
 
 - ⚡ Fun fact **If it works, Don't touch it.💡**
 
